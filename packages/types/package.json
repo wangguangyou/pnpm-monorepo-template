@@ -1,0 +1,16 @@
+{
+  "name": "types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --fix --ext .ts,.tsx,.vue,.js,.jsx"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-custom": "workspace:*",
+    "tsconfig-custom": "workspace:*"
+  }
+}

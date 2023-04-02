@@ -1,0 +1,17 @@
+{
+  "name": "vue-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "pnpm@7.5.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "pnpm -r --parallel  run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.11"
+  }
+}
